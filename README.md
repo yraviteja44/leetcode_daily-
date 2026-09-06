@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yraviteja44/leetcode_daily-/tree/master/0001-two-sum) |
+| [0162-find-peak-element](https://github.com/yraviteja44/leetcode_daily-/tree/master/0162-find-peak-element) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yraviteja44/leetcode_daily-/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/yraviteja44/leetcode_daily-/tree/master/0162-find-peak-element) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yraviteja44/leetcode_daily-/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
 |  |
