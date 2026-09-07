@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yraviteja44/leetcode_daily-/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/yraviteja44/leetcode_daily-/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/yraviteja44/leetcode_daily-/tree/master/0162-find-peak-element) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yraviteja44/leetcode_daily-/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
@@ -20,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yraviteja44/leetcode_daily-/tree/master/0852-peak-index-in-a-mountain-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/yraviteja44/leetcode_daily-/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/yraviteja44/leetcode_daily-/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
