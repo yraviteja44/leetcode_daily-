@@ -39,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/yraviteja44/leetcode_daily-/tree/master/0189-rotate-array) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/yraviteja44/leetcode_daily-/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
