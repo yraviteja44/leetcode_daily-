@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/yraviteja44/leetcode_daily-/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/yraviteja44/leetcode_daily-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/yraviteja44/leetcode_daily-/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/yraviteja44/leetcode_daily-/tree/master/0485-max-consecutive-ones) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yraviteja44/leetcode_daily-/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
