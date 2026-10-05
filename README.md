@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/yraviteja44/leetcode_daily-/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/yraviteja44/leetcode_daily-/tree/master/0485-max-consecutive-ones) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yraviteja44/leetcode_daily-/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/yraviteja44/leetcode_daily-/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/yraviteja44/leetcode_daily-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/yraviteja44/leetcode_daily-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/yraviteja44/leetcode_daily-/tree/master/0344-reverse-string) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/yraviteja44/leetcode_daily-/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/yraviteja44/leetcode_daily-/tree/master/0075-sort-colors) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/yraviteja44/leetcode_daily-/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
