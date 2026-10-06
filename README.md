@@ -18,11 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/yraviteja44/leetcode_daily-/tree/master/0485-max-consecutive-ones) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yraviteja44/leetcode_daily-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yraviteja44/leetcode_daily-/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/yraviteja44/leetcode_daily-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yraviteja44/leetcode_daily-/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/yraviteja44/leetcode_daily-/tree/master/0169-majority-element) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/yraviteja44/leetcode_daily-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -106,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yraviteja44/leetcode_daily-/tree/master/2149-rearrange-array-elements-by-sign) |
+## Sliding Window
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/yraviteja44/leetcode_daily-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
