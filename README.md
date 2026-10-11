@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/yraviteja44/leetcode_daily-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yraviteja44/leetcode_daily-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/yraviteja44/leetcode_daily-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/yraviteja44/leetcode_daily-/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -120,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/yraviteja44/leetcode_daily-/tree/master/0560-subarray-sum-equals-k) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/yraviteja44/leetcode_daily-/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
