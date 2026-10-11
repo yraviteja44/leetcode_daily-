@@ -133,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/yraviteja44/leetcode_daily-/tree/master/0680-valid-palindrome-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0461-hamming-distance](https://github.com/yraviteja44/leetcode_daily-/tree/master/0461-hamming-distance) |
 <!---LeetCode Topics End-->
