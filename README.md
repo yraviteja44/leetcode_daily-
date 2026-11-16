@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/yraviteja44/leetcode_daily-/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yraviteja44/leetcode_daily-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0367-valid-perfect-square](https://github.com/yraviteja44/leetcode_daily-/tree/master/0367-valid-perfect-square) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yraviteja44/leetcode_daily-/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/yraviteja44/leetcode_daily-/tree/master/0189-rotate-array) |
+| [0367-valid-perfect-square](https://github.com/yraviteja44/leetcode_daily-/tree/master/0367-valid-perfect-square) |
 ## String
 |  |
 | ------- |
